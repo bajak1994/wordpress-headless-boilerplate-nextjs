@@ -1,0 +1,16 @@
+.header {
+  padding: 1rem;
+  position: sticky;
+}
+
+.menuTop {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menuItem {
+  padding: 1rem;
+}
